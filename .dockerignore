@@ -1,0 +1,6 @@
+data
+.venv
+.github
+.gitignore
+README.md
+exploration_scripts
